@@ -61,7 +61,8 @@ public class loginServlet extends HttpServlet {
             ms=ms+"Hellochung";
         }
         else {
-            OUT.print("Nhap lai");
+            OUT.print("Nhap lai2");
+            OUT.print("nahp jasdjsadda");
         }
         OUT.print(ms);
     } 
